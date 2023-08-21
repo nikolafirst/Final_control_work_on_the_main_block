@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj": {}
+    "c:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj": {
+    "c:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj",
+        "projectUniqueName": "c:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj",
         "projectName": "Final control work on the main block",
-        "projectPath": "C:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj",
+        "projectPath": "c:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\Final control work on the main block.csproj",
         "packagesPath": "C:\\Users\\karasev.n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\obj\\",
+        "outputPath": "c:\\Users\\karasev.n\\Desktop\\Project\\Final control work on the main block\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karasev.n\\AppData\\Roaming\\NuGet\\NuGet.Config"
